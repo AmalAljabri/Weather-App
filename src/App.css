@@ -1,0 +1,51 @@
+.app {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    background-color: #282c34;
+    color: #eee;
+}
+
+.btn:hover,
+.btn:active,
+.btn:visited {
+    background-color: #eee;
+    color: #282c34;
+}
+
+.form-control,
+.form-control:active:after {
+    font-size: 25px;
+    background-color: #eee;
+}
+
+.card {
+    border: none;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: #eee;
+}
+
+p {
+    font-size: 23px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    color: #eee;
+    text-align: center;
+}
